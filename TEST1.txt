@@ -1,0 +1,3 @@
+ERROR: Ignoring arg sudo: is not a PID
+ERROR: Ignoring arg rt-app: is not a PID
+ERROR: Ignoring arg ../rt-app/doc/examples/mp3-short.json: is not a PID
